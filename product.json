@@ -1,0 +1,16 @@
+{
+  "id": "app212-travel-ai",
+  "name": "App212 Travel AI",
+  "tagline": "AI-powered travel solution",
+  "description": "AI-powered app212-travel-ai application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "category": "travel",
+  "tags": ["ai", "travel"],
+  "url": "https://auroramarket.org/app212-travel-ai",
+  "demo": "https://21leahcimhtiek-oss.github.io/app212-travel-ai",
+  "repo": "https://github.com/21leahcimhtiek-oss/app212-travel-ai",
+  "stack": ["TypeScript", "Next.js", "React"],
+  "status": "mvp",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
